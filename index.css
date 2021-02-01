@@ -34,6 +34,8 @@ nav {
 
   header {
     background: blue;
+    grid-column-start: 1;
+    grid-column-end: 1;
   }
 
   nav {
@@ -42,11 +44,9 @@ nav {
 
   .main {
     background: lightgrey;
-    grid-row-start: 3;
   }
 
   .advertisement {
     background: lightgreen;
-    grid-row-start: 4;
   }
 }
