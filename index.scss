@@ -30,7 +30,7 @@ nav {
 @media screen and (max-width: 992px) {
     body {
         grid-template-columns: 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 3fr 6fr 3fr;
     }
 
     header {
